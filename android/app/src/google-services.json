@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "293346444777",
+    "firebase_url": "https://flutter-blog-pp.firebaseio.com",
+    "project_id": "flutter-blog-pp",
+    "storage_bucket": "flutter-blog-pp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293346444777:android:18723a06a7ef6c9c",
+        "android_client_info": {
+          "package_name": "in.xyz.vaibhav.com.fluttersimpleblogapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293346444777-rnuscfvep4l4q1okgq5ijd5tcv0sc7bh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.xyz.vaibhav.com.fluttersimpleblogapp",
+            "certificate_hash": "7b0a8d5f29fcfd508a04c4c8c2b02ee331e4feff"
+          }
+        },
+        {
+          "client_id": "293346444777-ovemc5dmrif22afaqk5175mvfrhapt3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOmRBziMknxomjZrzSbyHg6ZmRztLsmXM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293346444777-ovemc5dmrif22afaqk5175mvfrhapt3i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293346444777:android:007b5d799161ff11",
+        "android_client_info": {
+          "package_name": "in.xyz.vaibhav.com.tempflutterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293346444777-3evqtbshbtuhicvemgdvip2rooj7gjfb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.xyz.vaibhav.com.tempflutterapp",
+            "certificate_hash": "7b0a8d5f29fcfd508a04c4c8c2b02ee331e4feff"
+          }
+        },
+        {
+          "client_id": "293346444777-ovemc5dmrif22afaqk5175mvfrhapt3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOmRBziMknxomjZrzSbyHg6ZmRztLsmXM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293346444777-ovemc5dmrif22afaqk5175mvfrhapt3i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
