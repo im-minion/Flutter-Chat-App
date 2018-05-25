@@ -1,8 +1,5 @@
-# temp_flutter_app
+# Flutter Group Chat Application
 
-A new Flutter application.
+<img src="https://github.com/im-minion/Flutter-Chat-App/blob/master/chat_screenshot.jpg" width = "320">.
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+Followed [Firebase for Flutter](https://codelabs.developers.google.com/codelabs/flutter-firebase/#0) Codelabs. :)
